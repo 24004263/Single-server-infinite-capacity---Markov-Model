@@ -16,11 +16,12 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Procedure :
 
-![imAGE](2.png)
+![Screenshot 2025-05-27 150346](https://github.com/user-attachments/assets/0f14712b-b5a1-4d91-96bc-1b78869e8b60)
 
 
 
 ## Experiment:
+![Screenshot 2025-05-27 150227](https://github.com/user-attachments/assets/2ac7a3c3-0051-46f2-8f03-39d3a56a8a97)
 
 
  
